@@ -9,9 +9,12 @@
         <img width="150" height="140" src="./badges/csm.png"/>
     <br />
     <br>
-    	<img src="https://skillicons.dev/icons?i=aws,python,vue,go,jenkins,flask,kubernetes,docker,git,js,linux,mysql,vscode,githubactions,grafana"/>
+	 <img src="https://skillicons.dev/icons?i=aws,cloudflare,jenkins,docker,kubernetes,python,js,vue,go,flask,git,linux,bash,mysql"/>
     <br />
-	<br>
+    <br>
+	<img src="https://skillicons.dev/icons?i=vscode,githubactions,grafana,md,workers&perline=9"/>
+    <br />
+    <br>
 	 <img src="https://github-readme-stats-gc8g.vercel.app/api/?username=xiayanzheng&show_icons=true&count_private=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="xiayanzhengs Github Stats"></img>
     <br />
 </div>
