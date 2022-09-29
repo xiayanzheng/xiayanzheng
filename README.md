@@ -7,6 +7,7 @@
 		<img width="150" height="150" src="./badges/cka.png"/>
 		<img width="150" height="150" src="./badges/ciat.png"/>
 		<img width="140" height="130" src="./badges/csm.png"/>
+		<img width="140" height="130" src="./badges/alicloud-acp.png"/>
 	<br />
 	<br>
 		<img src="https://skillicons.dev/icons?i=aws,cloudflare,jenkins,docker,kubernetes,python,js,vue,go,flask,git,linux,bash,mysql"/>
